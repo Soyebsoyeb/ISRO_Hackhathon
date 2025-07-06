@@ -4,8 +4,6 @@
 
 A real-time air quality monitoring dashboard with interactive visualizations, health recommendations, and pollution analytics.
 
-![Dashboard Preview](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDk4eGxqY3V5d2VlZ3R5ZzV6ZzB0cmN6Y2JtNnR4dWZ6eWZ6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/example.gif)
-</details>
 
 ## ✨ Features
 <div>
@@ -17,17 +15,6 @@ A real-time air quality monitoring dashboard with interactive visualizations, he
 - 🗺️ <b>Interactive map visualization</b> <span class="tooltip">ℹ️<span class="tooltiptext">Click any point to see detailed readings</span></span>
 - 📊 <b>Pollutant concentration charts</b> <span class="tooltip">ℹ️<span class="tooltiptext">Compare PM2.5, O3, NO2 levels</span></span>
 </div>
-
-<script>
-function toggleFeatureDetails() {
-  var x = document.getElementById("featureDetails");
-  if (x.style.display === "none") {
-    x.style.display = "block";
-  } else {
-    x.style.display = "none";
-  }
-}
-</script>
 
 <style>
 .tooltip {
